@@ -1,3 +1,5 @@
+This repo was cloned form [HKUDS/STExplainer](https://github.com/HKUDS/STExplainer).
+
 # Explainable Spatio-Temporal Graph Neural Networks
 
 This is the PyTorch implementation by <a href='https://github.com/tjb-tech'>@Jiabin Tang</a> for STExplainer model proposed in this paper:
